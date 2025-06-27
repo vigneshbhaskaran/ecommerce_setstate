@@ -33,6 +33,7 @@ Edit
 
 *Add a screenshot here if possible*
 ![image](https://github.com/user-attachments/assets/2f291122-49d5-4b0f-aac6-0df0f677ceca)
+![image](https://github.com/user-attachments/assets/59630f23-bb6b-452a-a1ac-5d16d9b4085b)
 
 ---
 
