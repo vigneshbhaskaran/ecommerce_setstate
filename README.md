@@ -32,6 +32,7 @@ Edit
 ## 🖼️ Screenshot
 
 *Add a screenshot here if possible*
+![image](https://github.com/user-attachments/assets/2f291122-49d5-4b0f-aac6-0df0f677ceca)
 
 ---
 
